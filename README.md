@@ -2,11 +2,11 @@
 Coursera  "Getting and Cleaning Data" course project
 
 ---
-title: "Human Activity Recognition Using Smartphones Project"
+title: Human Activity Recognition Using Smartphones Project
 
-author: "Ng Tian Chyr"
+author: Ng Tian Chyr
 
-date:   "29/10/2021"
+date: 29/10/2021
 ---
 
 I am given data from an experiment that have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. Using its embedded accelerometer and gyroscope, 3-axial linear acceleration and 3-axial angular velocity are captured at a constant rate of 50Hz.
