@@ -2,8 +2,10 @@
 Coursera  "Getting and Cleaning Data" course project
 
 ---
-title: "Human Activity Recognition Using Smartphones Project""
+title: "Human Activity Recognition Using Smartphones Project"
+
 author: "Ng Tian Chyr"
+
 date:   "29/10/2021"
 ---
 
