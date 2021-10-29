@@ -5,26 +5,10 @@ date: "10/29/2021"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+Not going to produce codebook as of now for the following reasons:
 
-## R Markdown
+1. We are not taught on how to produce codebook! NOT in this course, NOR in the prior courses which I had completed. Thus I feel the requirement of producing codebook in order to pass is beyond my ability.
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+2. As I have not attended any course about RMarkdown (or other similar course), I am not going to waste my time to read all over any other places (which may take weeks to understand for someone who have no programming background like me)!
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-```{r cars}
-summary(cars)
-```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+Thank you.
